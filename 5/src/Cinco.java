@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class Cinco {
     public static void main(String[] args) throws Exception {
         Scanner scan= new Scanner(System.in);
         System.out.println("Escolha uma palavra");
